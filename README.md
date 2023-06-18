@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ainalco" alt="ainalco" /></a> </p>
 
-- 🔭 I’m currently working on [Restaurant Management](https://restorapos.com/) [Vehicle Management]([https://restorapos.com](https://edotcovms.com/)/) [Hotel Management]((https://hotel.bdtask-demo.com/xainhotel/)/)
+- 🔭 I’m currently working on [Restaurant Management](https://restorapos.com/), [Vehicle Management]([https://restorapos.com](https://edotcovms.com/)/) ,[Hotel Management]((https://hotel.bdtask-demo.com/xainhotel/)/)
 
 - 🌱 I’m currently learning **Vue, React and Laravel**
 
