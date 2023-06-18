@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-16114
-Fork on GitHub
-4478
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm MD AINAL HAQUE</h1>
 <h3 align="center">Senior PHP Programmer (Team Lead) At BDTASK</h3>
 
@@ -43,27 +27,9 @@ preview
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ainalco&" alt="ainalco" /></p>
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
+I am an experienced Sr. Software Engineer with over several years of professional experience in the field of website
+development, responsive web design, front end/back end designing & database management. I specialize in Cascading
+Style Sheets CSS, CSS3, HTML, JavaScript, PHP ,Codeigniter,Laravel, Back-End Web Development,Oriented Programming
+(OOP) & HTML5 and MySQL. Other than that, I have extensive knowledge and experience in Rest API development. My
+objective is to work as a dynamic developer in an organization where I can prove myself through my skills
+
