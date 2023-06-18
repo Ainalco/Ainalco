@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm MD AINAL HAQUE</h1>
 <h3 align="center">Senior PHP Programmer (Team Lead) At BDTASK</h3>
+<p>I am an experienced Sr. Software Engineer with over several years of professional experience in the field of website
+development, responsive web design, front end/back end designing & database management. I specialize in Cascading
+Style Sheets CSS, CSS3, HTML, JavaScript, PHP ,Codeigniter,Laravel, Back-End Web Development,Oriented Programming
+(OOP) & HTML5 and MySQL. Other than that, I have extensive knowledge and experience in Rest API development. My
+objective is to work as a dynamic developer in an organization where I can prove myself through my skills</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ainalco&label=Profile%20views&color=0e75b6&style=flat" alt="ainalco" /> </p>
 
@@ -26,9 +31,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ainalco&" alt="ainalco" /></p>
 
-I am an experienced Sr. Software Engineer with over several years of professional experience in the field of website
-development, responsive web design, front end/back end designing & database management. I specialize in Cascading
-Style Sheets CSS, CSS3, HTML, JavaScript, PHP ,Codeigniter,Laravel, Back-End Web Development,Oriented Programming
-(OOP) & HTML5 and MySQL. Other than that, I have extensive knowledge and experience in Rest API development. My
-objective is to work as a dynamic developer in an organization where I can prove myself through my skills
+
 
